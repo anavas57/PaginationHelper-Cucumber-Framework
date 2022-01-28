@@ -17,7 +17,7 @@ You need to have git installed in your computer.
  - Open a Terminal,
  - Execute the following command to clone the project: 
 ```
-git clone https://github.com/PaginationHelper/PaginationHelper.git
+git clone https://github.com/anavas57/PaginationHelper.git
 ```
 
 ## Execute Unit Test
