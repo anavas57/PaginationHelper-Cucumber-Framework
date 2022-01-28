@@ -12,7 +12,7 @@
 - Idea IntelliJ (Or any Java IDE)
 
 ## Clone this project
- - You need to have git installed in your computer. 
+You need to have git installed in your computer. 
  - Create a directory,
  - Open a Terminal,
  - Execute the following command to clone the project: 
@@ -22,7 +22,7 @@ git clone https://github.com/PaginationHelper/PaginationHelper.git
 
 ## Execute Unit Test
 Maven was used as the build tool of this project. 
-To execute the unit test, navigate to the root direcoty of the projct and execute following command:
+To execute the unit test, navigate to the root directory of the project and execute the following command:
 ```
 mvn clean test
 ```
